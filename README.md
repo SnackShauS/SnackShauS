@@ -19,11 +19,6 @@ Rather than building toy apps, my focus is on **complex, real-world systems**: s
 
 ## 🚀 Highlighted Engineering Work
 
-### 🧠 [Nexus Agentic Orchestrator IDE](https://github.com/SnackShauS)
-> *A self-evolving, agentic IDE shell for desktop and mobile web environments.*
-* **Architecture:** Monorepo with strict TypeScript (`strict: true`, zero `any`), Node.js/Express 5 ESM backend, and Vite + React 19 + Tailwind CSS 4 frontend.
-* **Capabilities:** Sandboxed runtime executing allowlisted workspace operations, integrated AST inspection, and unified quality gates (`npm run check`: typecheck + ESLint + Vitest across all workspaces).
-
 ### 🏢 [NexusOffice & Nexus Toolkit](https://github.com/SnackShauS)
 > *Enterprise document intelligence, media automation, and communication platform.*
 * **Core Tech:** React, Node.js, PostgreSQL, Google GenAI SDK, Cerebras Cloud SDK.
