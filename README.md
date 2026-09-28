@@ -42,3 +42,23 @@ Rather than building toy apps, my focus is on **complex, real-world systems**: s
 
 ## 🛠️ Technical Stack & Tooling
 
+Frontend: React 19 | TypeScript | Vite | Tailwind CSS 4 | HTML5 Canvas | Motion Backend: Node.js (ESM) | Express 5 | Python | RESTful APIs | WebSockets Databases: PostgreSQL | Supabase | Cloudflare R2 | AWS S3 | Firebase AI & Media: Gemini 3.8/Flash | Cerebras Cloud SDK | Tesseract.js | FFmpeg / FFprobe Discipline: Strict Typing (Zero any) | Vitest | AAA Unit Testing | CI/CD | Git
+
+
+---
+
+## 💡 Engineering Principles
+
+* **Zero-Compromise Type Safety:** I write clean, strictly typed TypeScript that eliminates runtime surprises before they happen.
+* **Resilient Architecture:** Real systems face connection drops and quota limits; I design offline-first fallbacks, idempotent synchronization, and graceful degradations.
+* **Business-First Solutions:** Code exists to deliver measurable value — automating manual workflows, reducing latencies, and delivering pixel-perfect user experiences.
+
+---
+
+## 📬 Let's Connect & Build
+
+I am actively open to **Software Engineer** roles (Remote or Hybrid). If you are looking for an engineer who takes ownership from database schema to UI micro-interactions, let's talk!
+
+* 📧 Email: **[snackshaus007@gmail.com](mailto:snackshaus007@gmail.com)**
+* 💼 GitHub: **[@SnackShauS](https://github.com/SnackShauS)**
+
