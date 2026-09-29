@@ -2,7 +2,7 @@
 ### **Software Engineer | Agentic Systems, Full-Stack & Cloud Architecture**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/AbrahamNunes2026)    
-[![GitHub](https://img.shields.io/badge/GitHub-SnackShauS-181717?style=for-the-badge&logo=github)](https://github.com/SnackShauS)
+[![GitHub](https://img.shields.io/badge/GitHub-SnackShauS-181717?style=for-the-badge&logo=github)](https://github.com/AbrahamNunesDev)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail)](mailto:snackshaus007@gmail.com)
 
 ---
